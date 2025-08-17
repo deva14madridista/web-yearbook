@@ -107,7 +107,7 @@ nav ul li a:hover {
         rgba(0, 0, 0, 0.4), /* warna gelap transparan di atas */
         rgba(0, 0, 0, 0.4)
     ),
-    url('/img/bg-spendas.png'); /* gambar background */
+    url('../img/bg-spendas.png'); /* gambar background */
 
     background-size: cover;
     background-position: center .1px;
